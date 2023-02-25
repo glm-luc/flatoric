@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// lcdcontrol module - Copyright (c) 2003, 2022 Gordon Mills
+// lcdcontrol module
 //
 // Controller for Toshiba SX14Q001 QVGA STN display. The controller reads and
 // writes three frames of data when a frame pulse is received, then waits.

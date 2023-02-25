@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// pwrmanage module - Copyright (c) 2003, 2022 Gordon Mills
+// pwrmanage module
 //
 // Provides the recommended sequencing of LCD power signals when starting up or
 // entering/exiting standby.

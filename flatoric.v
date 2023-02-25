@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// flatoric module - Copyright (c) 2003, 2022 Gordon Mills
+// flatoric module
 //
 // A flat panel display for Oric-1/Atmos microcomputers.
 

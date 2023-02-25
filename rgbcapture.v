@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// rgbcapture module - Copyright (c) 2003, 2022 Gordon Mills
+// rgbcapture module
 //
 // Samples Oric RGB video and packs pixels into bytes for writing to a frame
 // buffer, every 8 pixels generate 3 bytes of data. 240 of 312.5 lines per

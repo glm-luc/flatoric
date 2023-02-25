@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// ramcontrol module - Copyright (c) 2003, 2022 Gordon Mills
+// ramcontrol module
 //
 // Provides a dual-port interface to a single-port external SRAM device.
 // Read transactions have priority and require a mimimum of 3, maximum of 6

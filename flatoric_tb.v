@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-// flatoric_tb module - Copyright (c) 2003, 2022 Gordon Mills
+// flatoric_tb module
 //
 // Debug testbench for the flatoric module.
 
